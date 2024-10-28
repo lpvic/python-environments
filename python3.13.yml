@@ -1,0 +1,33 @@
+name: python313_full
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.13
+  - jupyterlab
+  - conda
+  - setuptools
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - bokeh
+  - plotly
+  - openpyxl
+  - pyodbc
+  - odfpy
+  - pypng
+  - astropy
+  - python-dotenv
+  - flask
+  - flask-wtf
+  - flask-login
+  - flask-migrate
+  - flask-sqlalchemy
+  - waitress
+  - sphinx
+  - python-docx
+  - pip:
+    - pyqrcode
+    - auto-py-to-exe
