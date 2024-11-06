@@ -27,6 +27,7 @@ dependencies:
   - flask-sqlalchemy
   - waitress
   - sphinx
+  - sphinx-rtd-theme
   - python-docx
   - pip:    
     - pyqrcode
