@@ -28,6 +28,7 @@ dependencies:
   - waitress
   - sphinx
   - sphinx-rtd-theme
+  - sphinxcontrib-napoleon
   - python-docx
   - pip:
     - pyqrcode
