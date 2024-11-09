@@ -33,3 +33,4 @@ dependencies:
   - pip:    
     - pyqrcode
     - auto-py-to-exe
+    - build
