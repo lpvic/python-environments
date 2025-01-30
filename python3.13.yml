@@ -5,6 +5,7 @@ channels:
 dependencies:
   - python=3.13
   - jupyterlab
+  - ipykernel
   - conda
   - setuptools
   - pip
@@ -28,6 +29,7 @@ dependencies:
   - waitress
   - sphinx
   - sphinx-rtd-theme
+  - breathe
   - sphinxcontrib-napoleon
   - python-docx
   - pip:
