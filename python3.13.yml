@@ -1,14 +1,11 @@
 name: python313_full
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - python=3.13
   - jupyterlab
   - ipykernel
-  - conda
   - setuptools
-  - pip
   - numpy
   - pandas
   - matplotlib
